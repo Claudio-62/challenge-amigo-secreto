@@ -146,7 +146,7 @@ function actualizarEstadoBoton() {
     regex.test(inputNombre) &&
     !listaAmigos.includes(capitalizarNombre(inputNombre))
   ) {
-    botonAgregar.style.backgroundColor = "#4CdF50";
+    botonAgregar.style.backgroundColor = "#FE652B";
     botonAgregar.classList.add("entrada-valida");
     nuevoNombre.classList.add("entrada-valida");
   } else {

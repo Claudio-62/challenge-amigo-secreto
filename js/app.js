@@ -130,7 +130,6 @@ function sortearAmigo() {
       "success"
     );
     console.log(`¡Tu amigo secreto es: ${listaAmigos[amigoSorteado]}!`);
-    mostrarConfetti();
   } else if (listaAmigos.length === 1) {
     mostrarAlerta("Debe tener al menos 2 amigos para sortear.");
     console.error("Debe tener al menos 2 amigos para sortear.");

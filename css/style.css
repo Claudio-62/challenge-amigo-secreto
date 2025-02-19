@@ -193,9 +193,9 @@ li span {
 }
 
 .entrada-valida {
-  box-shadow: 1px 1px 5px #05df05,
-              1px 1px 5px #05df05 inset;
-  border-color: #05df05;
+  box-shadow: 1px 1px 5px #FE652B;
+              1px 1px 5px  #FE652B inset;
+  border-color: #FE652B;
 }
 
 

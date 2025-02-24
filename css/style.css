@@ -36,7 +36,7 @@ body {
   align-items: center;
   flex-direction: column;
   background-color: var(--color-primary);
-  width: 100%;
+  width: 50%;
   padding: 20px 0;
 }
 
@@ -97,6 +97,16 @@ body {
   display: flex;
   justify-content: center;
   gap: 20px;
+  flex-direction: row;
+}
+
+/* Mediaquery cambia el estilo de los botones a sentido vertical*/
+@media (max-width:460px) {
+  .button-container { 
+    flex-direction:column;
+    align-items: center;
+
+  }
 }
 
 /* Estilos de entrada de texto */

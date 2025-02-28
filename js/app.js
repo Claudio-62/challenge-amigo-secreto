@@ -1,4 +1,3 @@
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 // Variables globales
 const regex = /^[A-Za-zÁÉÍÓÚáéíóúÑñ ]+$/; // Expresión regular para permitir solo letras y espacios
 let listaAmigos = [];
@@ -9,7 +8,6 @@ const imprimirAmigos = document.getElementById("listaAmigos");
 const imprimirSorteado = document.getElementById("resultado");
 const botonAgregar = document.getElementById("botonAgregarAmigo");
 const botonSortear = document.getElementById("botonSortearAmigo");
-
 
 // Constantes para mensajes de error
 const ERROR_NOMBRE_VACIO = "Por favor, inserte un nombre.";

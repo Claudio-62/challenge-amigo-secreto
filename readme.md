@@ -1,2 +1,2 @@
-Proyecto Juego del Amigo Secreto
+Proyecto : " Juego del Amigo Secreto "
 

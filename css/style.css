@@ -101,14 +101,23 @@ body {
 }
 
 /* Mediaquery cambia el estilo de los botones a sentido vertical*/
-@media (max-width:460px) {
+@media (max-width:360px) {
   .button-container { 
     flex-direction:column;
     align-items: center;
-
   }
 }
 
+@media (max-width:350px) {
+  .ul{
+    flex-direction:column;
+    align-items: center;
+  }
+  .il {
+    flex-direction:column;
+    align-items: center;
+  }
+}
 /* Estilos de entrada de texto */
 .input-title {
   flex: 1;
@@ -152,7 +161,7 @@ ul {
   color: var(--color-text);
   font-family: "Inter", sans-serif;
   font-size: 18px;
-  margin: 20px 0;
+  margin: 20px 0px;
   width: 25rem;
   gap: 0.5rem;
 }
@@ -161,11 +170,11 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0.5rem 0;
+  margin: 8px 48px;
   border-radius: 5rem;
   background-color: burlywood;
   padding: 10px;
-  width: 400px;
+  width: 300px;
   gap: 10px;
 }
 
@@ -211,7 +220,7 @@ li span {
 
 .main-content {
   width: 100%;
-  max-width: 100%; /* Ajusta este valor según tus necesidades */
+  max-width: 90%; /* Ajusta este valor según tus necesidades */
   display: flex;
   flex-direction: column;
   align-items: center;

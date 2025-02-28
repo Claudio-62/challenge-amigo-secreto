@@ -1,5 +1,3 @@
-Proyecto : " Juego del Amigo Secreto "
-
 Proyecto: "Juego del Amigo Secreto"
 Debes ingresar el nombre de un amigo, en la barra
 para escribir el nombre de tu amigo.

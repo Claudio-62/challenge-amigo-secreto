@@ -19,6 +19,8 @@ clickear el icono basura en la barra del nombre del amigo a eliminar.
 ![eliminar-amigo](https://github.com/user-attachments/assets/cdb47ab2-6c26-4c0c-b541-c731af6b93a3)
 
 Para que puedas sortear el nombre del amigo secreto,
+![tu-amigo-secreto-es](https://github.com/user-attachments/assets/1f7b3834-659b-43f0-a8cd-3c432e8980e4)
+
 debes clickear el boton de "Sortear amigo". 
 ![sortear-amigo](https://github.com/user-attachments/assets/d613b13b-a70c-4458-a3bc-c055cbffe42c)
 

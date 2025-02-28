@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Proyecto : " Juego del Amigo Secreto "
-=======
+
 Proyecto: "Juego del Amigo Secreto"
 Debes ingresar el nombre de un amigo, en la barra
 para escribir el nombre de tu amigo.
@@ -33,9 +32,5 @@ Una vez ejecutado el sorteo, te aparecera el nombre del amigo secreto ganador.
 Cuando quieras realizar un nuevo sorteo debes clikear el boton de "Reiniciar juego"
 ![reiniciar-juego](https://github.com/user-attachments/assets/f8ffab03-77df-4e36-8e1e-c0b36f5ee02d)
 
-<<<<<<< HEAD
->>>>>>> a450f122cbe8f7b1b0dd0fe65cc6c70857fc4c69
-
-=======
 ¡En Hora Buena, ahora ingresa a tus amigos y disfruta el juego!
->>>>>>> 68d329b2a51cbe41dda78e8276c396c745934f6d
+
